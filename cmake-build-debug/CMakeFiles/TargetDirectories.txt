@@ -1,3 +1,0 @@
-/Users/stefanmrdjanovic/CLionProjects/Exercise_1/cmake-build-debug/CMakeFiles/Exercise_1.dir
-/Users/stefanmrdjanovic/CLionProjects/Exercise_1/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/stefanmrdjanovic/CLionProjects/Exercise_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
